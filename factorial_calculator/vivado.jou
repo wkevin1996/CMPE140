@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Apr 24 11:49:50 2019
+# Process ID: 7216
+# Current directory: C:/Users/Kevin Wong/factorial_calculator
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12168 C:\Users\Kevin Wong\factorial_calculator\factorial_calculator.xpr
+# Log file: C:/Users/Kevin Wong/factorial_calculator/vivado.log
+# Journal file: C:/Users/Kevin Wong/factorial_calculator\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Kevin Wong/factorial_calculator/factorial_calculator.xpr}
+update_compile_order -fileset sources_1
+import_files

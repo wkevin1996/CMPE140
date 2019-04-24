@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/DFF_Reg_En.v,1549521141,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/Down_Counter.v,,DFF_register_EN,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/Down_Counter.v,1550148462,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/comparator_gt.v,,down_counter,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/comparator_gt.v,1549540551,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/error_check.v,,comparatorGT,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/error_check.v,1549540641,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc.v,,error_check,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc.v,1550161590,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_cu.v,,factorial_calc,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc_cu_tb.v,1550154115,verilog,,,,factorial_calc_cu_tb,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc_dp_tb.v,1550149646,verilog,,,,factorial_calc_dp_tb,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc_tb.v,1550165066,verilog,,,,factorial_calc_tb,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_cu.v,1550166264,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_dp.v,,factorial_calc_cu,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_dp.v,1550163718,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/mul.v,,factorial_calc_dp,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/mul.v,1549540588,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/mux2.v,,mul,,,,,,,,
+C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/mux2.v,1549522293,verilog,,C:/Users/Kevin Wong/Documents/CMPE140/Assignment_01/factorial_calc_tb.v,,mux2,,,,,,,,
+C:/Users/Kevin Wong/factorial_calculator/factorial_calculator.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,

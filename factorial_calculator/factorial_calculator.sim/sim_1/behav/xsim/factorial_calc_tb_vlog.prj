@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Documents/CMPE140/Assignment_01/DFF_Reg_En.v" \
+"../../../../../Documents/CMPE140/Assignment_01/Down_Counter.v" \
+"../../../../../Documents/CMPE140/Assignment_01/comparator_gt.v" \
+"../../../../../Documents/CMPE140/Assignment_01/error_check.v" \
+"../../../../../Documents/CMPE140/Assignment_01/factorial_calc.v" \
+"../../../../../Documents/CMPE140/Assignment_01/factorial_cu.v" \
+"../../../../../Documents/CMPE140/Assignment_01/factorial_dp.v" \
+"../../../../../Documents/CMPE140/Assignment_01/mul.v" \
+"../../../../../Documents/CMPE140/Assignment_01/mux2.v" \
+"../../../../../Documents/CMPE140/Assignment_01/factorial_calc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
